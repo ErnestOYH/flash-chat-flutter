@@ -1,0 +1,56 @@
+{
+    "project_info": {
+      "project_number": "817903310711",
+      "firebase_url": "https://gigdash.firebaseio.com",
+      "project_id": "gigdash",
+      "storage_bucket": "gigdash.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:817903310711:android:931d8c9a5e0bcfafca7372",
+          "android_client_info": {
+            "package_name": "com.gigdash.android"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "817903310711-apl6ui4a0ok9g52dloeksbgbfchbvret.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.gigdash.android",
+              "certificate_hash": "21043220b995a185d89322cedee273a27f0946aa"
+            }
+          },
+          {
+            "client_id": "817903310711-memfmkia0dttet5bjsij425qiml2bid6.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.gigdash.android",
+              "certificate_hash": "37da84f363ea21ea9e7d78c73e923772ff08e624"
+            }
+          },
+          {
+            "client_id": "817903310711-h9fabp8m508a15ig0u079umduh9bthur.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDB5ZiaqPKJj1DIcbHPLh3gRTOQzPT6XA0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "817903310711-h9fabp8m508a15ig0u079umduh9bthur.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
